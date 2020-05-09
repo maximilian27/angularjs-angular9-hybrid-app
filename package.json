@@ -20,6 +20,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "buildProd": "ng build --watch --prod --output-path docs --base-href /angularjs-angular9-hybrid-app/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
